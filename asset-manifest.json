@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a5fec88.chunk.css",
-    "main.js": "/static/js/main.e56eeebc.chunk.js",
-    "main.js.map": "/static/js/main.e56eeebc.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.324d06ec.chunk.js": "/static/js/2.324d06ec.chunk.js",
-    "static/js/2.324d06ec.chunk.js.map": "/static/js/2.324d06ec.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.62d654acec3759deff31e992cdab1de8.js": "/precache-manifest.62d654acec3759deff31e992cdab1de8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0a5fec88.chunk.css.map": "/static/css/main.0a5fec88.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/tammyleextech.github.io/static/css/main.0a5fec88.chunk.css",
+    "main.js": "/tammyleextech.github.io/static/js/main.ac91475d.chunk.js",
+    "main.js.map": "/tammyleextech.github.io/static/js/main.ac91475d.chunk.js.map",
+    "runtime~main.js": "/tammyleextech.github.io/static/js/runtime~main.21e42622.js",
+    "runtime~main.js.map": "/tammyleextech.github.io/static/js/runtime~main.21e42622.js.map",
+    "static/js/2.324d06ec.chunk.js": "/tammyleextech.github.io/static/js/2.324d06ec.chunk.js",
+    "static/js/2.324d06ec.chunk.js.map": "/tammyleextech.github.io/static/js/2.324d06ec.chunk.js.map",
+    "index.html": "/tammyleextech.github.io/index.html",
+    "precache-manifest.d96e22c7d1b39dbc8ddd7b9f210c81e9.js": "/tammyleextech.github.io/precache-manifest.d96e22c7d1b39dbc8ddd7b9f210c81e9.js",
+    "service-worker.js": "/tammyleextech.github.io/service-worker.js",
+    "static/css/main.0a5fec88.chunk.css.map": "/tammyleextech.github.io/static/css/main.0a5fec88.chunk.css.map",
+    "static/media/logo.svg": "/tammyleextech.github.io/static/media/logo.5d5d9eef.svg"
   }
 }
